@@ -270,7 +270,7 @@ localparam CONF_STR = {
 	"O67,Aspect ratio,Original,Full Screen,[ARC1],[ARC2];",
 	"-;",
 	"O8,Mouse Buttons,Normal,Swapped;",
-	"O9A,Mouse speed,25%,50%,100%,200%;",
+	"O9A,Mouse speed,25%,50%,100%,200%;800%;",
 	"OB,Joystick mode,Digital,Analog;",
 	"OC,Joystick speed,High,Low;",
 	"-;",
